@@ -19,6 +19,6 @@ public class Product {
     private String name;
     @Column(name = "productPrice")
     private double price;
-    @Column(name = "productQuantity")
+    @Column(name = "productQuantited")
     private int quantity;
 }
