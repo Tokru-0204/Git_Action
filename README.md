@@ -1,7 +1,5 @@
 <h3 align="center">Git_Action CI/CD </h3>
 
-![hinh1.png](img%2Fhinh1.png)
-
 <p><b>Giới thiệu</b></p>
 <p>File này mô tả quy trình CI/CD (Continuous Integration/Continuous Delivery) được thiết lập cho dự án sử dụng Git Action. Quy trình này tự động hóa việc xây dựng, kiểm thử và triển khai ứng dụng sử dụng các công nghệ sau:</p>
 
@@ -34,4 +32,3 @@ Triển khai: Nếu tất cả các bài kiểm tra thành công, Git Action s�
 <p><b>Lưu ý</b></p>
 <li>Nội dung tệp .github/workflows/ci-cd.yml cần được điều chỉnh cho phù hợp với dự án cụ thể của bạn.</li>
 <li>Bạn có thể thêm các bước bổ sung vào quy trình CI/CD, chẳng hạn như triển khai tài liệu hoặc gửi thông báo email.</li>
-
